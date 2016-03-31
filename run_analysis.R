@@ -1,6 +1,3 @@
-#Setting the work directory
-setwd("/media/mynewdrive/Documentos/Coursera/Cleaning Data/Data Course Project")
-
 ##Reading the data
 features<-read.table("./UCI HAR Dataset/features.txt")
 #Transposing the matrix and eliminating the first column
